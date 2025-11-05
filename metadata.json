@@ -1,0 +1,5 @@
+{
+  "name": "SalesFlow POS",
+  "description": "SalesFlow is a Point of Sale (POS) system designed to manage a product catalog, process sales, and visualize metrics on a dashboard, enhanced with AI-powered promotional product suggestions.",
+  "requestFramePermissions": []
+}
